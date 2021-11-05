@@ -4,6 +4,8 @@ ref: [https://docs.docker.com/samples/django/](https://docs.docker.com/samples/d
 
 ### 1. Clone this repository.
 
+`$ git clone https://github.com/atsushi0424/dj`
+
 ### 2. Create Django Project (Only the first time) .
 
 `$ docker-compose run web django-admin startproject config .`
