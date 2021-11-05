@@ -4,7 +4,7 @@ ref: [https://docs.docker.com/samples/django/](https://docs.docker.com/samples/d
 
 ### 1. Clone this repository.
 
-`$ git clone https://github.com/atsushi0424/dj`
+`$ git clone https://github.com/atsushi0424/dj.git`
 
 ### 2. Create Django Project (Only the first time) .
 
